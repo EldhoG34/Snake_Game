@@ -30,7 +30,7 @@ const AdUnit: React.FC<AdUnitProps> = ({ adSlot, adFormat = 'auto', style }) => 
           textAlign: 'center',
           ...style,
         }}
-        data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" // Replace with your publisher ID
+        data-ad-client="ca-pub-3937241348551109"
         data-ad-slot={adSlot}
         data-ad-format={adFormat}
         data-full-width-responsive="true"
